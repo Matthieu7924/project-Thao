@@ -1,0 +1,61 @@
+html{
+background: url('photo/equipe.jpg');
+background-attachment:fixed;
+background-size:100%;
+}
+@font-face {
+  font-family:"police" ;
+  src: url(police.otf);
+}
+h1 {
+font-family: "police";
+ font-style: italic ; 
+ text-align: center;
+  width: auto;
+  height: auto;
+  margin: auto;
+  padding: 10px 20px 20px 20px;
+  border: 4px solid black;
+background-color: orange;
+}
+h2 {
+  font-family: "police";
+   font-style: italic ; 
+   text-align: center;
+    width: auto;
+    height: auto;
+    margin: 815 0 0 0;
+    padding: 10px 20px 20px 20px;
+    border: 4px solid black;
+  background-color: orange;
+  opacity: 0.8;
+  }
+h3 {
+  font-family: "police";
+ font-style: italic ; 
+ text-align: left;
+  width: auto;
+  height: auto;
+  margin: 10 auto auto auto ;
+  padding: 5px 10px 10px 10px;
+  border: 4px solid black;
+background-color: orange;
+opacity: 0.8;
+}
+h4 {
+  font-family: "police";
+ font-style: italic ; 
+ font-size: large;
+ text-align: left;
+  width: auto;
+  height: auto;
+  margin-bottom: auto;
+  padding: 5px 10px 10px 10px;
+  border: 4px solid black;
+background-color: orange;
+opacity: 0.8;
+}
+img {
+  width: 2%;
+  vertical-align: middle;
+}

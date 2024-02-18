@@ -1,0 +1,43 @@
+@font-face {
+  font-family:"police" ;
+  src: url(police.otf);
+}
+html{
+  background-image : url('photo/fond.jpg');background-position: center;
+ background-size: auto ;
+}
+h1 {
+  
+  font-family: "police";
+  background-image : url('photo/bg1.jpg');
+  background-position: bottom;
+  font-style: italic ; 
+  text-align: center;
+  width: 600px;
+  height: 1010px ;
+  margin: 0 auto;
+  padding: 10px 20px 20px 20px;
+  border: 5px solid black;
+background-color: purple;
+}
+p {
+  text-align: center;
+  font-size: large;
+  font-style: normal;
+}
+h2 {
+  font-family: "police";
+  font-style: italic ; 
+  font-size: large;
+  text-align: center;
+  width: auto;
+  height: auto;
+  margin: -165px 0px;
+
+  padding: 5px 10px 10px 10px;
+ 
+}
+img {
+  width: 5%;
+  vertical-align: middle;
+}
